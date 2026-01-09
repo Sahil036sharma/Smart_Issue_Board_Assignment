@@ -3,7 +3,7 @@
 A real-time issue tracking application built with vanilla JavaScript and Firebase, featuring intelligent duplicate detection and streamlined workflow management.
 
 **Live Demo:** [Your Vercel URL here]  
-**Repository:** [Your GitHub URL here]
+**Repository:** [[Your GitHub URL here]](https://github.com/Sahil036sharma/Smart_Issue_Board_Assignment/tree/main)
 
 ---
 
