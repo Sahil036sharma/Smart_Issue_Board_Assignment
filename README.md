@@ -468,26 +468,6 @@ For this project size, keeping everything in one file makes it easier to underst
 
 ---
 
-## 👤 Author
 
-**[Your Name]**  
-Email: [your-email]  
-GitHub: [@your-username](https://github.com/your-username)
 
----
 
-## 📄 License
-
-This project was created as an internship assignment. Feel free to use it for learning purposes.
-
----
-
-## 🙏 Acknowledgments
-
-- Firebase team for excellent documentation
-- Anthropic's Claude for code assistance and debugging help
-- The assignment designers for creating a practical, real-world challenge
-
----
-
-**Built with ❤️ in [Your City]**
